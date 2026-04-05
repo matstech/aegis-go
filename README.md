@@ -4,7 +4,7 @@
 
 # aegis-go
 
-[![Version](https://img.shields.io/badge/version-v0.1.0-blue)](https://github.com/matstech/aegis-go/releases)
+[![Version](https://img.shields.io/badge/version-v0.1.1-blue)](https://github.com/matstech/aegis-go/releases)
 [![Go Reference](https://pkg.go.dev/badge/github.com/matstech/aegis-go/client.svg)](https://pkg.go.dev/github.com/matstech/aegis-go/client)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/matstech/aegis-go/blob/main/LICENSE)
 
